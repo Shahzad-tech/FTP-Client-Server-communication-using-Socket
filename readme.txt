@@ -1,7 +1,7 @@
 1.	Run server class
 2.	Run a client class, multiple client classes can be started here too
 3.	Connected to a client with client’s port number will appear at server’s console
-4.	Enter username and password at client’s console, users.txt file has user details make sure its path is set rightly, right now file path is set to F:\ drive. 
+4.	Enter username and password at client’s console, users.txt file has user details make sure its path is set rightly, right now file path is set to F:\ drive. (currently users.txt is available in src) 
 5.	On successful authentication menu options will appear on console screen
 6.	Type choices 1-7 to perform your desired task
 7.	From choice #1 client will upload/send a file through server. On selecting this option client has to select the file to send.
